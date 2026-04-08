@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Adam
 
-<!--
-**Skroxos/Skroxos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught **Unity & C# developer** from the Czech Republic, focused on building interactive 3D simulations and VR experiences. I enjoy the full development lifecycle — from Data-Driven gameplay logic and architecture to cloud backend integration and deployment.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools
+`C#` `Unity` `PHP` `MySQL` `Azure` `Terraform` `Git` `GitHub Actions` `GIMP` `DaVinci Resolve`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Work
+* **[Drone Assembly Simulator](https://github.com/Skroxos/Drone-Assembly-Simulator)** — A full-stack VR simulation demonstrating a complete 3-tier cloud architecture (Unity Client ➔ PHP REST API ➔ Azure MySQL). Fully provisioned with Terraform and tested via CI/CD.
+  * [🎬 Watch the Showcase](https://www.youtube.com/watch?v=AfFFgCSjMrA)
+
+### 📫 Let's Connect
+• [Itch.io](https://chroustek.itch.io) • [Email](mailto:krciladam@seznam.cz)
