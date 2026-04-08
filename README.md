@@ -10,4 +10,4 @@ I'm a self-taught **Unity & C# developer** from the Czech Republic, focused on b
   * [🎬 Watch the Showcase](https://www.youtube.com/watch?v=AfFFgCSjMrA)
 
 ### 📫 Let's Connect
-• [Itch.io](https://chroustek.itch.io) • [Email](mailto:krciladam@seznam.cz)
+• [Itch.io](https://chroustek.itch.io)
