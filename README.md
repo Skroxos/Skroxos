@@ -11,3 +11,5 @@ I'm a self-taught **Unity & C# developer** from the Czech Republic, focused on b
 
 ### 📫 Let's Connect
 • [Itch.io](https://chroustek.itch.io)
+• [LinkedIn.com](https://www.linkedin.com/in/adam-krčil-2a5a7a3aa/)
+
