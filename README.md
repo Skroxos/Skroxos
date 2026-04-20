@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adam
 
-I'm a self-taught **Unity & C# developer** from the Czech Republic, focused on building interactive 3D simulations and VR experiences. I enjoy the full development lifecycle — from Data-Driven gameplay logic and architecture to cloud backend integration and deployment.
+I'm a **Unity & C# developer** from the Czech Republic, focused on building interactive 3D simulations and VR experiences. I enjoy the full development lifecycle — from Data-Driven gameplay logic and architecture to cloud backend integration and deployment.
 
 ### 🛠️ Tech & Tools
 `C#` `Unity` `PHP` `MySQL` `Azure` `Terraform` `Git` `GitHub Actions` `GIMP` `DaVinci Resolve`
