@@ -26,8 +26,3 @@ Full-stack Unity simulation for PC and VR with a cloud backend, CI/CD pipeline, 
 A Unity sandbox focused on architecture, design patterns, gameplay systems, and performance experiments.
 
 - Repo: [TechSandbox](https://github.com/Skroxos/TechSandbox)
-
-## Contact
-
-- GitHub: [github.com/Skroxos](https://github.com/Skroxos)
-- LinkedIn: [linkedin.com/in/adamkrcil](https://linkedin.com/in/adamkrcil)
